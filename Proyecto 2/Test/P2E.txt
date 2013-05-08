@@ -1,0 +1,41 @@
+p FMC 13 19
+c
+c Nodos: indice, oferta, pred, depth, thread
+c
+n  1   2  0 0  8
+n  2  -8  3 4 11
+n  3   0  4 3  2
+n  4   4  8 2  3
+n  5   3  8 2  4
+n  6   4  2 5 12
+n  7   5 13 3  5
+n  8  -6  1 1 13
+n  9   9  2 5  6
+n 10  -8  3 4  1
+n 11   6  2 5  9
+n 12 -10  6 6 10
+n 13  -1  8 2  7
+c
+c Arcos: cola, cabeza, capacidad, costo, (T,L,U)
+c Arreglos: DE,A,U,C,TLU
+c 1 en U 0 en T y -1 en L
+c
+a 1  10  3   5  1
+a 2   3  8   5  0
+a 2   6  6   7  0
+a 3  10  7  -4  0
+a 4   8  7 -10  0
+a 4   3  5  -2  0
+a 5   8  5   7  0
+a 5   3  6   0 -1
+a 5   2  2   8  1
+a 6  12 25   1  0
+a 7  13  8   2  0
+a 8   1  5   2  0
+a 9   2  7  -7  0
+a 9   6  5  -3  1
+a 10  4  2   2 -1
+a 11 13 15   4 -1
+a 11  2 12   3  0
+a 13  8 10  -3  0
+a 13  9 10   4 -1

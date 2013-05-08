@@ -1,0 +1,12 @@
+p FMC 13 6
+c
+c Arcos: cola, cabeza, capacidad, costo, (T,L,U)
+c Arreglos: DE,A,U,C,TLU
+c 1 en U 0 en T y -1 en L
+c
+a 2  4  3   5  1
+a 2  3  8   5  0
+a 2  6  6   7  0
+a 4  7  7  -4  0
+a 7  2  7 -10  0
+a 6  1  5  -2  0

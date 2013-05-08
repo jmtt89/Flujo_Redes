@@ -1,0 +1,12 @@
+c Un ejemplo para el proyecto I, CO5422 S/D 2008
+c
+p DES 5 8
+c
+a 1 2 7 7 2
+a 1 4 3 5 -1
+a 2 3 4 4 2
+a 3 1 6 3 3
+a 3 4 5 5 -3
+a 3 5 2 5 5
+a 4 2 1 5 2
+a 4 5 4 2 -2

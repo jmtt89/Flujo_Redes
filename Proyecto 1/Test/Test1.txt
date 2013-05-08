@@ -1,0 +1,14 @@
+c Archivo de muestra para descomposición de flujo CO5422 27/10/10
+p DFL 6 11
+c
+a 1 4 1 0 0
+a 1 5 6 0 0
+a 1 6 4 0 0
+a 2 3 3 0 0
+a 2 5 1 0 0
+a 3 1 5 0 0
+a 3 6 4 0 0
+a 4 1 1 0 0
+a 4 2 2 0 0
+a 5 3 7 0 0
+a 6 5 3 0 0
