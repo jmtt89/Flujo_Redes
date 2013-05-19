@@ -3,9 +3,9 @@ Proyectos
 
 En ambos Proyectos se utiliza la estructura estrella directa-reversa para almacenar la red.
 
-[X] En el primero, se realiza un algoritmo de Descomposicion de Flujo.
+- [x] En el primero, se realiza un algoritmo de Descomposicion de Flujo.
 
-[X] En el segundo, una iteracion de FMC(Flujo Minimo Costo) mostrando potenciales, flujos y costos reducidos.
+- [x] En el segundo, una iteracion de FMC(Flujo Minimo Costo) mostrando potenciales, flujos y costos reducidos.
 
 Para mas informacion Sobre como Ejecutar, Leer Readme.txt Dentro de cada Proyecto.
 
